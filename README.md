@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hey 🚀, I'm [Seun!](https://www.linkedin.com/in/seunajayi) 
 
-<!--
-**Seun-A/Seun-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<div style="display:flex;justify-content:space-around;max-width:700px;margin:0 auto;">
+  <a href="https://www.linkedin.com/in/seunajayi">
+    <img width="35px" src="https://cdn.simpleicons.org/linkedin"  />
+  </a>
+  <a href="https://www.instagram.com/shunnnn.__/">
+    <img width="35px" src="https://cdn.simpleicons.org/instagram/fff" />
+  </a>
+  <a href="http://twitter.com/shun_nnnnnn">
+    <img width="35px" src="https://cdn.simpleicons.org/twitter" />
+  </a>
+</div>
+<br />
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<div style="display:flex;justify-content:space-between;max-width:600px;margin:0 auto;">
+  <img width="28px" src="https://cdn.simpleicons.org/react" />
+  <img width="28px" src="https://cdn.simpleicons.org/javascript" />
+  <img width="28px" src="https://cdn.simpleicons.org/redux" />
+  <img width="28px" src="https://cdn.simpleicons.org/tailwindcss" />
+  <img width="28px" src="https://cdn.simpleicons.org/bootstrap" />
+  <img width="28px" src="https://cdn.simpleicons.org/firebase" />
+</div>
+<br />
+
+#
