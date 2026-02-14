@@ -14,7 +14,6 @@ I am an intermediate frontend web developer with 4+ years of experience. I speci
 <a href="https://twitter.com/shun__aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shun__aj" height="30" width="40" /></a>
 <a href="https://www.behance.net/seunajayi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="seunajayi4" height="30" width="40" /></a>
 <a href="https://medium.com/@seunfunmi.chisom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@seunfunmi.chisom" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/100213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="100213" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
